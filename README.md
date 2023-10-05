@@ -1,5 +1,16 @@
 # 💫 About Me:
-Pursuing Master of Computer Application @ Vellore Institute of Technology - Vellore<br>🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔<br>📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.<br>📣 To leverage my passion for technology and problem-solving skills in a challenging and dynamic role that will allow me to push the boundaries of innovation and contribute to building a better future through technology. I am committed to continuous learning and professional growth and excited to collaborate with a team of like-minded individuals to create impactful solutions that make a difference in the world.
+
+Google Workspace
+I am Ritesh Gupta, a computer science student at Vellore Institute of Technology. I am currently pursuing my Masters of Computer Application degree. I am passionate about software development and I am eager to learn and grow in this field.
+
+I have experience with a variety of programming languages and technologies, including Java, C/C++, Python, HTML, CSS, PHP, and MySQL. I have also developed two personal projects: Book-Share and Med-Reminder.
+
+I am a hard worker and I am always willing to go the extra mile. I am also a team player and I am eager to collaborate with others on exciting projects.
+
+I am looking for an internship or entry-level position where I can apply my skills and knowledge to make a real impact. I am also interested in contributing to open source projects.
+
+I am excited to see what the future holds and I am confident that I can make a positive contribution to the tech industry.
+I 
 
 
 ## 🌐 Socials:
