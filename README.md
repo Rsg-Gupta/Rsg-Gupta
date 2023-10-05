@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Google Workspace
+
 I am Ritesh Gupta, a computer science student at Vellore Institute of Technology. I am currently pursuing my Masters of Computer Application degree. I am passionate about software development and I am eager to learn and grow in this field.
 
 I have experience with a variety of programming languages and technologies, including Java, C/C++, Python, HTML, CSS, PHP, and MySQL. I have also developed two personal projects: Book-Share and Med-Reminder.
